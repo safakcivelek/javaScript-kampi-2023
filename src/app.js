@@ -26,3 +26,4 @@ console.log("</ul>")
 
 console.log(konutKredileri)
 // 12 Ekim Ders Sonu
+
