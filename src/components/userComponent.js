@@ -38,3 +38,5 @@ console.log(userService.customers)
 console.log(userService.employees)
 console.log(userService.errors)
 console.log(userService.getCustomersSorted())
+
+// Commit-21.10.2023 / Proje adı değişimi Gerçekleşti
